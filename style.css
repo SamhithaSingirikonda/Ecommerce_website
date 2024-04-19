@@ -1,0 +1,45 @@
+.background {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.heading1 {
+    color: #183b56;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.card {
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.heading2 {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.image {
+    height: 120px;
+    width: 130px;
+    border-radius: 15px;
+}
+
+.paragraph1 {
+    color: #1f2933;
+    font-size: 18px;
+}
+
+.heading3 {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.image1 {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
